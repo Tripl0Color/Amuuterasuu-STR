@@ -1,1 +1,1 @@
-python amuustr-beseda-str-flood.py
+pip install vk_requests python amuustr-beseda-str-flood.py

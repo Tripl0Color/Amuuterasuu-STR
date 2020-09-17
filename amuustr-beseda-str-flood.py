@@ -6,7 +6,7 @@ by Tripl_color vk.com/Tripl_color""")
 import vk_requests
 import time
 import random
-token = "твой айди"
+token = "токен бота"
 cid = str(input('Айди беседы = '))
 
 photo = "photo472165736_457244077"

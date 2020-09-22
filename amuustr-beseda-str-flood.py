@@ -11,7 +11,7 @@ cid = str(input('Айди беседы = '))
 
 photo = "photo472165736_457244077"
 audio = "audio472165736_456239668"
-msg = "fuck all. by Tripl_Color. @muuT3ra$$uu-kick-my-str-v.1 "
+msg = "fuck all. by Tripl_Color. @muuT3ra$$uu-kick-my-str-v.1 " ## можешь добавить свое сообщение
 
 
 while True:
